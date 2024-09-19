@@ -20,7 +20,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:kyogaraj@uwaterloo.ca">
+  <a href="mailto:kishore.yogaraj@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/kishore-yogaraj-03100a203/" target="_blank">
