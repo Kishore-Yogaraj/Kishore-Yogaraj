@@ -42,6 +42,8 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
+[![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kishore-Yogaraj)](https://github.com/Kishore-Yogaraj/github-readme-stats)
+
 <br/>
 <hr/>
 
