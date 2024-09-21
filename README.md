@@ -40,6 +40,8 @@
     <img src="https://skillicons.dev/icons?i=jenkins,python,kubernetes,linux,matlab,opencv,pytorch,sklearn,tensorflow" /><br>
 </div>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+
 <br/>
 <hr/>
 
