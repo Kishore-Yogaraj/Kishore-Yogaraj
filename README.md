@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kishore+Yogaraj!;" />
 </h1>
 
-<h3 align="center">Making vehicles autonomous for fun 🤖🚙</h3>
+<h3 align="center">Making vehicles autonomous 🤖🚙</h3>
 
 <br/>
 
