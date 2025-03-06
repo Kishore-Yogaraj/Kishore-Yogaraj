@@ -5,13 +5,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kishore+Yogaraj!;" />
 </h1>
 
-<h3 align="center">Making vehicles autonomous 🤖🚙</h3>
+<h3 align="center">Making Robots 🤖🚙</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **integrating behaviour cloning in an RC Car**
+ 🔭 I’m currently working on **Enabling Vision Based Navigation with NeRFs**
  
  🌱 I’m currently learning **ROS2, PyTorch, TensorRT, Batched Inference**
 
