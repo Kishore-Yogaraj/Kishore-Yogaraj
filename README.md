@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/kishore-yogaraj-03100a203/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/Kishore-Yogaraj" target="_blank">
+  <a href="https://www.kishoreyogaraj.com/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
